@@ -1,6 +1,6 @@
 package company;
 
-public class Cwh_33_varargs {
+public class Cwh33_varargs {
 
 	
 //	static int sum(int a, int b)
