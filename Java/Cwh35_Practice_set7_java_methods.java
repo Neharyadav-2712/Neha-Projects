@@ -2,7 +2,7 @@ package company;
 
 import java.nio.file.spi.FileSystemProvider;
 
-public class Cwh_35_Practice_set7_java_methods {
+public class Cwh35_Practice_set7_java_methods {
 
 	
 //	1) write a java method multiplication table of a number n.
