@@ -5,7 +5,7 @@ import java.util.stream.IntStream;
 import java.util.stream.LongStream;
 import java.util.stream.Stream;
 
-public class Cwh_26_arrays {
+public class Cwh26_arrays {
 	
 //	private static long facto(long n)
 //	{
