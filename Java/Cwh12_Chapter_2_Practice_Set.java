@@ -2,7 +2,7 @@ package company;
 
 import  java.util.*;
 
-public class Cwh_12_Chapter_2_Practice_Set {
+public class Cwh12_Chapter_2_Practice_Set {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
