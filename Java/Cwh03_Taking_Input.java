@@ -1,7 +1,7 @@
 package company;
 import java.util.Scanner;
 
-public class Taking_Input03 {
+public class Cwh03_Taking_Input {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
