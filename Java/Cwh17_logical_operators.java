@@ -1,6 +1,6 @@
 package company;
 
-public class Cwh_17_logical_operators {
+public class Cwh17_logical_operators {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
