@@ -1,6 +1,6 @@
 package company;
 
-public class Cwh_31_methods_in_java {
+public class Cwh31_methods_in_java {
 	
 	static int logic(int x, int y)
 	{
