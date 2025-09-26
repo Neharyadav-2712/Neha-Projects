@@ -53,7 +53,7 @@ abstract class child1 extends Parent2
 		System.out.println("I am Good");
 	}
 }
-public class Cwh_53_Abstract_Classes_and_Methods {
+public class Cwh53_Abstract_Classes_and_Methods {
 
 	public static void main(String[] args) {
 		
