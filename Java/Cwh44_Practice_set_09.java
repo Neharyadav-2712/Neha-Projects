@@ -119,7 +119,7 @@ package company;
 	 
 	}
 	
-public class Cwh_44_Practice_set_09{
+public class Cwh44_Practice_set_09{
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
