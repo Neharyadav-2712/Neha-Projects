@@ -1,6 +1,6 @@
 package company;
 
-public class Cwh_27_for_Each_loop_injava {
+public class Cwh27_for_Each_loop_injava {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
