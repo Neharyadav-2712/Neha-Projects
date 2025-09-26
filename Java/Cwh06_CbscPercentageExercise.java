@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 // Ques 1) CBSC board percentage 
 
-public class Cwh_06_CbscPercentageExercise {
+public class Cwh06_CbscPercentageExercise {
 
 	public static void main(String[] args) {
 		
