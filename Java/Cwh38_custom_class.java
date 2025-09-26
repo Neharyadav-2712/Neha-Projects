@@ -18,7 +18,7 @@ package company;
 	}
 }
 
-public class Cwh_38_custom_class {
+public class Cwh38_custom_class {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
