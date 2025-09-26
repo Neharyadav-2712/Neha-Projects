@@ -40,7 +40,7 @@ class MySampleInterface  implements childSampleInterface
 	
 }
 
-public class Cwh_58_Inheritance_in_Interface {
+public class Cwh58_Inheritance_in_Interface {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
