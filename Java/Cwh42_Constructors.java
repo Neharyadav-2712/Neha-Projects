@@ -63,7 +63,7 @@ public int getid()
 //		 id = i;
 //	}
 //}
-public class Cwh_42_Constructors {
+public class Cwh42_Constructors {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
