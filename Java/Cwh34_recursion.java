@@ -1,6 +1,6 @@
 package company;
 
-public class Cwh_34_recursion {
+public class Cwh34_recursion {
 	
 	//factorial(0) = 1
 	//factorial(1) = 1
