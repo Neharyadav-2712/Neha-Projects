@@ -1,6 +1,6 @@
 package company;
 
-public class Cwh_16_conditionals {
+public class Cwh16_conditionals {
 
 	public static void main(String[] args) {
 
