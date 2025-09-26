@@ -117,7 +117,7 @@ class Circle
 		return 2*3.14f*radius;
 	}
 }
-public class Cwh_39_cwh_chapter8_practice_set {
+public class Cwh39_cwh_chapter8_practice_set {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
