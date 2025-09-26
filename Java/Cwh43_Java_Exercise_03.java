@@ -63,7 +63,7 @@ boolean isCorrectNumber()
 }
 
 }
-public class Cwh_43_Java_Exercise_03 {
+public class Cwh43_Java_Exercise_03 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
