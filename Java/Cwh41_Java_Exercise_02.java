@@ -2,7 +2,7 @@ package company;
 import java.util.*;
 import java.util.Scanner;
 
-public class Cwh_41_Java_Exercise_02 {
+public class Cwh41_Java_Exercise_02 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
