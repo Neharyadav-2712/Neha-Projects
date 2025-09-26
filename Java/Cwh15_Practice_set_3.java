@@ -1,6 +1,6 @@
 package company;
 
-public class Cwh_15_ps3 {
+public class Cwh15_Practice_set_3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
