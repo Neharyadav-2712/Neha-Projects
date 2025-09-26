@@ -2,7 +2,7 @@ package company;
 import java.util.Random;
 import java.util.*;
 
-public class Cwh_20_Exercise2 {
+public class Cwh20_Exercise2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
