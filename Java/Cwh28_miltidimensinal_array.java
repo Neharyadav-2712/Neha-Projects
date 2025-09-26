@@ -1,6 +1,6 @@
 package company;
 
-public class Cwh_28_miltidimensinal_array {
+public class Cwh28_miltidimensinal_array {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
