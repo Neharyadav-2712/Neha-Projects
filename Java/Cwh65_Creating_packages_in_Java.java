@@ -3,7 +3,7 @@ package company;
 import java.util.*;
 
 
-public class Cwh_65_Creating_packages_in_Java {
+public class Cwh65_Creating_packages_in_Java {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
