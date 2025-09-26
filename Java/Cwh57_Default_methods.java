@@ -69,7 +69,7 @@ public void connectToNetwork(String network)
 
 }
 
-public class Cwh_57_Default_methods {
+public class Cwh57_Default_methods {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
