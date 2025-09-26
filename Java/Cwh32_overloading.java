@@ -1,6 +1,6 @@
 package company;
 
-public class Cwh_32_overloading {
+public class Cwh32_overloading {
 	
 	public static void foo()
 	{
