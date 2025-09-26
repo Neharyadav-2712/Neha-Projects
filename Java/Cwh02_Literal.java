@@ -1,6 +1,6 @@
 package company;
 
-public class Literal02 {
+public class Cwh02_Literal {
 
 	public static void main(String[] args) {
 		
