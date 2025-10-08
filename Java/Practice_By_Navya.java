@@ -102,24 +102,25 @@ public class Cwh_Practice_By_Navya {
 			int num = sc.nextInt();
 			
 				int temp = num;
+				int sum = 0;
+				int count = 0;
 				int last = 0;
 				int res = 0;
-				int count = 0;
-				while(num!=0)
+				while(temp!=0)
 				{
-					last = num%10;
-					num = num/10;
-					res = res*10 + last;
+					last = temp%10;
+					temp= temp/10;
 					count++;
+					res = res*10+last;
 				}
 				while(res!=0)
 				{
-					res = last%10;
-					last=last/10;
-					res = (int) Math.pow(last, count);
+					last = res%10;
+					res = res/10;
+					sum+= (int) Math.pow(last, count);
 				}
 					
-				if(res==num)	
+				if(sum==num)	
 				{
 					System.out.println("Number is Armstrong");
 				}
